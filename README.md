@@ -1,6 +1,6 @@
 ![](http://wwwu.aau.at/chklemen/Untitled-49.png)
 
-Reproducibility of scientific contributions is an important aspect of scholarship that has received way to little attention! This repository aims to collect information on peer-reviewed NILM (alias energy disaggregation) papers that have been published with source code or extensive supplemental material. We group NILM papers based on a number of categories: reviews, algorithms, toolkits, datasets, and misc. Feel free to contribute to this repository! Please consider our "style guide":
+Reproducibility of scientific contributions is an important aspect of scholarship that has received way to little attention! This repository aims to collect information on peer-reviewed NILM (alias energy disaggregation) papers that have been published with source code or extensive supplemental material. We group NILM papers based on a number of categories: algorithms, toolkits, datasets, and misc. Feel free to contribute to this repository! Please consider our "style guide":
 
 - **This is a title.** (year). [[pdf]](link-to-pdf) [[code]](link-to-code)
   - Main Author et al. Optional: *Acronym of conference or journal* i.e. Where was it published?
@@ -10,41 +10,60 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
   -  et al. *Venue.*
 -->
 
-## Reviews
-
-- **Machine learning approaches for non-intrusive load monitoring: from qualitative to quantitative comparation, Artificial Intelligence Review** [[pdf]](https://intelligence.csd.auth.gr/publications/machine-learning-approaches-for-non-intrusive-load-monitoring-from-qualitative-to-quantitative-comparation/)
-  - C Nalmpantis, D Vrakas. Artificial Intelligence Review, 2019
 
 ## Algorithms
 
 ### HMM
 
+- **Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring (NILM).** (2015). [[pdf]](http://makonin.com/doc/TSG_2015.pdf) [[code]](https://github.com/smakonin/SparseNILM)
+  - S. Makonin et al. *IEEE TSG.*
+
 ### Neural Nets
 
-- **Neural nilm: Deep neural networks applied to energy disaggregation** [[pdf]](http://jack-kelly.com/files/writing/neural_nilm.pdf)
-  - Jack Kelly et al. *BuildSys'15*
+- **Transfer Learning for Non-Intrusive Load Monitoring.** (2019). [[pdf]]() [[code]](https://github.com/MingjunZhong/transferNILM)
+  - D. Michele et al. *IEEE TSG.*
 
-- **Sequence-to-point learning with neural networks for non-intrusive load monitoring** [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16623/15980)
-  - Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard, Charles Sutton. *AAAI'18*
+- **Neural NILM: Deep neural networks applied to energy disaggregation** (2015) [[pdf]](http://jack-kelly.com/files/writing/neural_nilm.pdf) [[code]](https://github.com/JackKelly/neuralnilm)
+  - J. Kelly et al. *BuildSys'15*
 
-- **Wavenilm: A causal neural network for power disaggregation from the complex power signal** [[pdf]](https://arxiv.org/pdf/1902.08736.pdf)
-  - Alon Harell, Stephen Makonin, Ivan V. Bajić. *ICASSP'19*
+- **Sliding Window Approach for Online Energy Disaggregation Using Artificial Neural Networks.** (2018). [[pdf]](https://dl.acm.org/citation.cfm?doid=3200947.3201011) [[code]](https://github.com/OdysseasKr/online-nilm)
+    - O. Krystalakos et al. *Venue.*
+
+- **Sequence-to-point learning with neural networks for non-intrusive load monitoring** (2018) [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16623/15980) [[code]](https://github.com/MingjunZhong/NeuralNetNilm)
+  - C. Zhang et al. *AAAI'18*
+
+- **WaveNILM: A causal neural network for power disaggregation from the complex power signal** (2019) [[pdf]](https://arxiv.org/pdf/1902.08736.pdf) [[code]](https://github.com/picagrad/WaveNILM)
+  - Alon Harell et al. *ICASSP'19*
 
 
 ## Toolkits
 
+- **Towards reproducible state-of-the-art energy disaggregation.** (2019) [[pdf]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [[code]](https://github.com/nilmtk/nilmtk-contrib)
+  - N. Batra et al. *BuildSys'19.*
+
+
 - NILM-Eval [[pdf]]() [[code]](https://github.com/beckel/nilm-eval)
 - NILMTK [[pdf]](https://arxiv.org/pdf/1404.3878v1.pdf) [[code]](https://github.com/nilmtk/nilmtk)
-- NILMTK-Contrib [[pdf]](https://nipunbatra.github.io/papers/batra_buildsys_19.pdf) [[code]](https://github.com/nilmtk/nilmtk-contrib)
 
 ## Metrics & Performance Evaluation
 
+- **Nonintrusive load monitoring (NILM) performance evaluation.** (2015). [[pdf]](https://link.springer.com/article/10.1007%2Fs12053-014-9306-2) [[code]](https://github.com/smakonin/NILM_PerformanceEval)
+  -  S. Makonin et al. *Springer Energy Efficiency.*
+
 - **Towards Comparability in Non-Intrusive Load Monitoring: On Data and Performance Evaluation** [[pdf]](http://makonin.com/doc/ISGT-NA_2020b.pdf) [[code]]()
-  - C Klemenjak et al. 2020 IEEE ISGT.
+  - C. Klemenjak et al. 2020 IEEE ISGT.
 
 ## Misc
 
-- SmartSim: [[link]](https://github.com/sustainablecomputinglab/smartsim)
+- **Machine learning approaches for non-intrusive load monitoring: from qualitative to quantitative comparation, Artificial Intelligence Review** (2018). [[pdf]](https://intelligence.csd.auth.gr/publications/machine-learning-approaches-for-non-intrusive-load-monitoring-from-qualitative-to-quantitative-comparation/) [[code]](https://github.com/ChristoferNal/power-disaggregation-complexity)
+  - C. Nalmpantis et al. *Artificial Intelligence Review.*
+
+- **Metadata for Energy Disaggregation.** (2014) [[pdf]](https://ieeexplore.ieee.org/document/6903193) [[code]](https://github.com/nilmtk/nilm_metadata)
+  - J. Kelly et al. *CDS'14.*
+
+- **SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics.** (2016). [[pdf]]() [[code]](https://github.com/sustainablecomputinglab/smartsim)
+    - D. Chen et al. *SmartGridComm'16.*
+
 - SynD: [[link]](https://github.com/klemenjak/SynD/)
 
 ## Datasets
