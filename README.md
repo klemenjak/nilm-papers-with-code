@@ -13,12 +13,20 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ## Algorithms
 
-### HMM
+### Graph Signal Processing
+
+- **On a Training-Less Solution for Non-Intrusive Appliance Load Monitoring Using Graph Signal Processing** (2016). [[pdf]](https://ieeexplore.ieee.org/document/7457610) [[code]](https://github.com/loneharoon/GSP_energy_disaggregator)
+  - B. Zhao et al. *IEEE Access.*
+
+### Hidden Markov Models
 
 - **Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring (NILM).** (2015). [[pdf]](http://makonin.com/doc/TSG_2015.pdf) [[code]](https://github.com/smakonin/SparseNILM)
   - S. Makonin et al. *IEEE TSG.*
 
 ### Neural Nets
+
+- **Pruning Algorithms for Seq2Point Energy Disaggregation.** (2020). [[pdf]]() [[code]](https://github.com/JackBarber98/pruned-nilm)
+  - J. Barber et al. *.*
 
 - **Transfer Learning for Non-Intrusive Load Monitoring.** (2019). [[pdf]]() [[code]](https://github.com/MingjunZhong/transferNILM)
   - D. Michele et al. *IEEE TSG.*
@@ -55,18 +63,21 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ## Misc
 
+- **Device-Free User Activity Detection using Non-Intrusive Load Monitoring: A Case Study.** (2020). [[pdf]](https://www.areinhardt.de/publications/2020/Reinhardt_DFHS_2020.pdf) [[code]](https://github.com/klemenjak/antgen)
+    - A. Reinhardt et al. *DFHS Workshop.*
+
 - **Machine learning approaches for non-intrusive load monitoring: from qualitative to quantitative comparation, Artificial Intelligence Review** (2018). [[pdf]](https://intelligence.csd.auth.gr/publications/machine-learning-approaches-for-non-intrusive-load-monitoring-from-qualitative-to-quantitative-comparation/) [[code]](https://github.com/ChristoferNal/power-disaggregation-complexity)
   - C. Nalmpantis et al. *Artificial Intelligence Review.*
 
 - **Metadata for Energy Disaggregation.** (2014) [[pdf]](https://ieeexplore.ieee.org/document/6903193) [[code]](https://github.com/nilmtk/nilm_metadata)
   - J. Kelly et al. *CDS'14.*
 
-- **SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics.** (2016). [[pdf]]() [[code]](https://github.com/sustainablecomputinglab/smartsim)
-    - D. Chen et al. *SmartGridComm'16.*
-
-- SynD: [[link]](https://github.com/klemenjak/SynD/)
+- **On time series representations for multi-label NILM.** (2020) [[pdf]](https://link.springer.com/epdf/10.1007/s00521-020-04916-5?sharing_token=bTZg6CBADDbWx7UVvztexPe4RwlQNchNByi7wbcMAY4YyOCPZ8jI-u3LyC4lDtEOZIQACACm_MVY_633J4jzg0CtjGEkhvPkzOs5Z-2UGgB1P_m1_4nDnPxtIplmNRaDx7TM52V6MVQYVJPSqJEKpxv1n3RqXoEm1ZpW5amjaaA%3D) [[code]](https://github.com/ChristoferNal/multi-nilm)
+  - C. Nalmpantis et al. *Springer Neural Computing and Applications.*
 
 ## Datasets
+
+#### Real-World Datasets
 
 - REDD [[link]](http://redd.csail.mit.edu/)
 - UK-DALE [[link]](https://www.nature.com/articles/sdata20157)
@@ -78,6 +89,18 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 - Tracebase [[link]](https://github.com/areinhardt/tracebase)
 - PLAID [[link]](http://www.plaidplug.com/)
 - ENERTALK [[link]](https://www.nature.com/articles/s41597-019-0212-5)
+
+
+#### Synthetic Datasets and Generators
+
+- **SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics.** (2016). [[pdf]]() [[code]](https://github.com/sustainablecomputinglab/smartsim)
+    - D. Chen et al. *SmartGridComm'16.*
+
+- **How does Load Disaggregation Performance Depend on Data Characteristics? Insights from a Benchmarking Study.** (2020). [[pdf]](https://www.areinhardt.de/publications/2020/Reinhardt_eEnergy_2020.pdf) [[code]](https://github.com/klemenjak/antgen)
+    - A. Reinhardt et al. *ACM e-energy.*
+
+- **A synthetic energy dataset for non-intrusive load monitoring in households.** (2020). [[pdf]](https://www.nature.com/articles/s41597-020-0434-6) [[code]](https://github.com/klemenjak/SynD)
+    - C. Klemenjak et al. *Scientific Data.*
 
 
 ## Licence
