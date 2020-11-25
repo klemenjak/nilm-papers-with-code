@@ -93,7 +93,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 #### Synthetic Datasets and Generators
 
-- **SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics.** (2016). [[pdf]]() [[code]](https://github.com/sustainablecomputinglab/smartsim)
+- **SmartSim: A Device-Accurate Smart Home Simulator for Energy Analytics.** (2016). [[pdf]](http://www.ecs.umass.edu/~irwin/smartsim.pdf) [[code]](https://github.com/sustainablecomputinglab/smartsim)
     - D. Chen et al. *SmartGridComm'16.*
 
 - **How does Load Disaggregation Performance Depend on Data Characteristics? Insights from a Benchmarking Study.** (2020). [[pdf]](https://www.areinhardt.de/publications/2020/Reinhardt_eEnergy_2020.pdf) [[code]](https://github.com/klemenjak/antgen)
