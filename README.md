@@ -1,3 +1,4 @@
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/ChristophKlemenjak)
 ![](http://wwwu.aau.at/chklemen/Untitled-49.png)
 
 Reproducibility of scientific contributions is an important aspect of scholarship that has received way to little attention! This repository aims to collect information on peer-reviewed NILM (alias energy disaggregation) papers that have been published with source code or extensive supplemental material. We group NILM papers based on a number of categories: algorithms, toolkits, datasets, and misc. Feel free to contribute to this repository! Please consider our "style guide":
