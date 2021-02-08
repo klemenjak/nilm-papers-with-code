@@ -27,6 +27,9 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ### Neural Nets
 
+- **Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network.** (2021). [[pdf]](https://www.mdpi.com/1996-1073/14/4/847/pdf) [[code]](https://github.com/antoniosudoso/attention-nilm)
+  - V. Piccialli et al. *Energies*
+
 - **Pruning Algorithms for Seq2Point Energy Disaggregation.** (2020). [[pdf]]() [[code]](https://github.com/JackBarber98/pruned-nilm)
   - J. Barber et al. *.*
 
