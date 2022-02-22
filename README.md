@@ -25,6 +25,11 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 - **Exploiting HMM Sparsity to Perform Online Real-Time Nonintrusive Load Monitoring (NILM).** (2015). [[pdf]](http://makonin.com/doc/TSG_2015.pdf) [[code]](https://github.com/smakonin/SparseNILM)
   - S. Makonin et al. *IEEE TSG.*
 
+### Mathematical Optimization
+
+- **Mixed-Integer Nonlinear Programming for State-based Non-Intrusive Load Monitoring.** (2022). [[link]](https://ieeexplore.ieee.org/document/9714495) [[code]](https://github.com/antoniosudoso/nilm-bqp)
+  - M. Balletti et al. *IEEE TSG.**
+
 ### Neural Nets
 
 - **Improving Non-Intrusive Load Disaggregation through an Attention-Based Deep Neural Network.** (2021). [[pdf]](https://www.mdpi.com/1996-1073/14/4/847/pdf) [[code]](https://github.com/antoniosudoso/attention-nilm)
