@@ -89,7 +89,7 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 #### Real-World Datasets
 
-- REDD [[link]](http://redd.csail.mit.edu/)
+- REDD [[link]](https://web.archive.org/web/20220812015008/http://redd.csail.mit.edu/)
 - UK-DALE [[link]](https://www.nature.com/articles/sdata20157)
 - BLUED [[link]](http://portoalegre.andrew.cmu.edu:88/BLUED/)
 - GREEND [[link]](https://sourceforge.net/projects/greend/)
